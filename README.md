@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![edm 5 2](https://github.com/SubashM00/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/144870586/124946e3-aa28-4ca5-b265-a3f871d01d49)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
